@@ -9,5 +9,21 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = [];
 
+  //vue
+  config.view = {
+    defaultViewEngine: 'vue',
+    mapping: {
+      '.js': 'vue',
+    },
+  };
+
+
+  config.vue = {
+    cache: {
+      max: 1000,
+      maxAge: 1000 * 3000 * 24 * 7,
+    },
+  };
+
   return config;
 };
