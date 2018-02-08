@@ -18,6 +18,9 @@
     "egg-mock": "^3.14.0",
     "eslint": "^4.11.0",
     "eslint-config-egg": "^6.0.0",
+    "pug": "^2.0.0-rc.4",
+    "pug-filters": "^2.1.5",
+    "pug-loader": "^2.3.0",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {

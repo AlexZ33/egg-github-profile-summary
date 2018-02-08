@@ -1,3 +1,5 @@
+https://segmentfault.com/a/1190000007556806
+https://github.com/Molunerfinn/node-github-profile-summary/blob/dev/package.json
 # github-profile-summary
 
 The egg.js version of github-profile-summary
